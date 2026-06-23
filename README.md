@@ -5,7 +5,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/valorisa/lecert)](https://goreportcard.com/report/github.com/valorisa/lecert)
 [![Go Version](https://img.shields.io/github/go-mod/go-version/valorisa/lecert)](https://go.dev/)
 [![License](https://img.shields.io/github/license/valorisa/lecert)](https://github.com/valorisa/lecert/blob/main/LICENSE)
-[![Release](https://img.shields.io/github/v/release/valorisa/lecert?include_prereleases)](https://github.com/valorisa/lecert/releases)
+[![Release](https://img.shields.io/github/v/release/valorisa/lecert?include_prereleases)](https://github.com/valorisa/lecert/releasestag/1.0.0)
 [![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macos%20%7C%20windows-brightgreen)](https://github.com/valorisa/lecert#installation)
 
 [🇫🇷 Français](README.fr.md)
